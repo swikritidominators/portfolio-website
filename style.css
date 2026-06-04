@@ -8,15 +8,15 @@ font-family:'Segoe UI',sans-serif;
 }
 
 body{
-background:#0f172a;
-color:white;
+background:peachpuff;
+color:red;
 }
 
 header{
 position:fixed;
 width:100%;
 top:0;
-background:#111827;
+background:purple;
 padding:20px 10%;
 z-index:1000;
 }
@@ -28,7 +28,7 @@ align-items:center;
 }
 
 .logo{
-color:#38bdf8;
+color:turquoise;
 }
 
 nav ul{
@@ -57,7 +57,7 @@ font-size:4rem;
 }
 
 .hero span{
-color:#38bdf8;
+color:goldenrod;
 }
 
 .hero p{
