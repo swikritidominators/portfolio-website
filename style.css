@@ -100,7 +100,7 @@ gap:20px;
 .card,
 .project-card,
 .timeline-item{
-background:#1e293b;
+background:coral;
 padding:25px;
 border-radius:12px;
 transition:.3s;
@@ -126,7 +126,7 @@ line-height:2.5;
 footer{
 text-align:center;
 padding:25px;
-background:#111827;
+background:indigo;
 }
 
 @media(max-width:768px){
